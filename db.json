@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin ",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Sara",
+      "email": "sara@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "3",
+      "name": "Hana",
+      "email": "hana@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "Sana m",
+      "email": "sana@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "5",
+      "name": "Hamdan",
+      "email": "hamdan@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "6",
+      "name": "Sauna",
+      "email": "sauna @gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "9",
+      "name": "Saja",
+      "email": "saja@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "8",
+      "name": "Shana",
+      "email": "shana@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "7",
+      "name": "Haroon",
+      "email": "haroon@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "10",
+      "name": "Haron",
+      "email": "haron@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "11",
+      "name": "Farhan",
+      "email": "farhan@gmail.com",
+      "active": "1"
+    }
+  ]
+}
